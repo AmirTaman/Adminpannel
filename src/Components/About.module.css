@@ -1,0 +1,45 @@
+.card {
+  width: 100% !important;
+  margin-top: 30px !important;
+}
+.avatar_countainer {
+  position: relative;
+  margin-bottom: 70px;
+}
+.avatar_body {
+  position: absolute;
+  top: -70px;
+  left: 20px;
+}
+
+.avatar_image {
+  box-shadow: 0px 0px 15px 1px #292929bb;
+  width: 110px !important;
+  height: 110px !important;
+}
+
+.cover_container {
+  height: 200px;
+  display: flex;
+}
+.cover_image {
+  object-position: center;
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+.social_grid_container {
+  position: relative;
+}
+.social_grid {
+  position: absolute;
+  right: 5px;
+  top: -57px;
+}
+
+.text {
+  text-align: justify;
+  font-size: 23px;
+}

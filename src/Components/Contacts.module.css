@@ -1,0 +1,43 @@
+.card {
+  width: 100% !important;
+  margin-top: 30px !important;
+}
+/* .input {
+  width: 600px;
+}
+.textarea {
+  height: 10em;
+  width: 600px;
+} */
+/* .div[role="alert"] {
+  color: red;
+  margin-top: 1em;
+}
+.message-chars-left {
+  width: 600px;
+  margin: auto;
+  text-align: left;
+} */
+
+.button {
+  margin-top: 12px !important;
+}
+
+.boxshadow {
+  margin-bottom: 19px;
+  margin-top: 9px;
+  margin-left: 19px;
+  box-shadow: 0px 0px 11px 0px #00ffdc78;
+}
+
+.icon {
+  padding: 0px;
+}
+
+.label {
+  font-size: 18px;
+  margin-left: 24px;
+}
+.input {
+  font-size: 20px !important;
+}
